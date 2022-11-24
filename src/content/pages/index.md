@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: "One "
-tagline: Graphic Designer
+title: One 6 Entertainment
+tagline: Event Management Company
 featuredImage: https://cdn.dribbble.com/users/1210150/screenshots/18259914/media/25e66d20ada741006c30544ab94f54b2.mp4
 cta:
   ctaText: Know more
